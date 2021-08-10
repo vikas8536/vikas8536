@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vikas8536
+- 👋 Hi, I’m Vikas Sharma
 - 👀 I’m interested in highly scalable solutions
 - 🌱 I’m currently learning stream processing
 - 📫 Please reach me at vikas8536@gmail.com
